@@ -1,0 +1,1 @@
+Автотест на проверку смены прямоугольников на странице https://the-internet.herokuapp.com/drag_and_drop.
